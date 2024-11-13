@@ -23,4 +23,4 @@ This program is a batch processing solution designed to automate the data cleani
 
 ## ETL Journey/Workflow:
 <p><b>1. Data Scraping Process (Extract):</b></p>
-<p>I utilized the <a href='data/used_cars_data.csv'> Source</a> as our data source for scraping used cars stats.</p>
+<p> I utilized this file <a href='data/used_cars_data.csv'> Source</a> as our data source for scraping used cars stats.</p>
