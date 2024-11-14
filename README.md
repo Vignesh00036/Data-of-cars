@@ -40,6 +40,6 @@ This program is a batch processing solution designed to automate the data cleani
         we will upload the extracted data to an Amazon S3 bucket, and from there, manually load the data into a Redshift table.
     </li>
 </ul>
-
+<p>You may refer to the <a href='Architecture/Architecture.pdf'>Architecture Presentation</a> for further details.</p>
 ## How To Run:
 To execute this program, please ensure that all required Python libraries and tools are installed. Once the libraries are installed, open the main file located at <a href="main.py"> Main File</a> in your preferred Python environment. I recommend using Visual Studio Code (VS Code) for ease of use.
